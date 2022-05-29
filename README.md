@@ -97,7 +97,7 @@ Help Desk:
 ![Screenshot (25)](https://user-images.githubusercontent.com/95588187/170879088-a09982b6-475d-445c-baac-3861933e6c43.png)
 
 
-Demo video link:
+video demo link:
 https://youtu.be/wyzQgBlrOGo
 
 presentation link:
